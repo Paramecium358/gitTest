@@ -9,5 +9,6 @@ public class test {
 
         System.out.println(i);
         System.out.println(i+"+"+j+"="+(i+j));
+        System.out.println(i+"+"+j+"="+(i+j));
     }
 }
