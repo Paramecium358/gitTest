@@ -4,11 +4,10 @@
  */
 public class test {
     public static void main(String[] args){
-        int i = 3;
-        int j=6;
-
-        System.out.println(i);
-        System.out.println(i+"+"+j+"="+(i+j));
-        System.out.println(i+"+"+j+"="+(i+j));
+        System.out.println("hello1");
+        System.out.println("hello2");
+        System.out.println("hello3");
+        System.out.println("hello4");
+        System.out.println("hello hot-fix");
     }
 }
