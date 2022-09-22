@@ -8,5 +8,6 @@ public class test {
         int j=6;
 
         System.out.println(i+"+"+j+"="+(i+j));
+        System.out.println(i+"+"+j+"="+(i+j));
     }
 }
