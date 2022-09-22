@@ -5,6 +5,8 @@
 public class test {
     public static void main(String[] args){
         int i = 3;
-        System.out.println("test");
+        int j=4;
+
+        System.out.println(i+"+"+j+"="+(i+j));
     }
 }
