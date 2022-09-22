@@ -7,6 +7,6 @@ public class test {
         int i = 3;
         int j=4;
 
-        System.out.println(i+"+"+j+"="+(i+j));
+        System.out.println(i);
     }
 }
