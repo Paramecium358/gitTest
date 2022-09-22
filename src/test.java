@@ -10,5 +10,6 @@ public class test {
         System.out.println("hello4");
         System.out.println("hello hot-fix");
         System.out.println("push success");
+        System.out.println("pull success");
     }
 }
