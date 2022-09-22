@@ -5,7 +5,7 @@
 public class test {
     public static void main(String[] args){
         int i = 3;
-        int j=4;
+        int j=6;
 
         System.out.println(i);
     }
